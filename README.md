@@ -1,1 +1,1 @@
-creating a docker container
+creating a docker container and building an app
